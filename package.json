@@ -1,0 +1,12 @@
+{
+	"name": "@searchspring/browserslist-config-snap",
+	"version": "1.0.0",
+	"description": "Snap Browserslist Config",
+	"author": "Searchspring",
+	"license": "MIT",
+	"repository": "https://github.com/searchspring/browserslist-config-snap",	
+	"files": [
+		"modern/index.js",
+		"universal/index.js"
+	]
+}
