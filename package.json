@@ -4,7 +4,7 @@
 	"description": "Snap Browserslist Config",
 	"author": "Searchspring",
 	"license": "MIT",
-	"repository": "https://github.com/searchspring/browserslist-config-snap",	
+	"repository": "https://github.com/searchspring/browserslist-config-snap",
 	"files": [
 		"modern/index.js",
 		"universal/index.js"
