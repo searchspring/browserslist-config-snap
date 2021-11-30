@@ -1,7 +1,4 @@
-import modern from './modern';
-import universal from './universal';
-
-export default {
-	modern,
-	universal
+module.exports = {
+	modern: require('./modern'),
+	modern: require('./universal'),
 }
