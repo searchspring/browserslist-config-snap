@@ -1,4 +1,3 @@
-module.exports = [
-	"defaults",
-	"ie >= 11"
+export default [
+	"ie 11"
 ]

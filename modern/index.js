@@ -1,4 +1,4 @@
-module.exports = [
+export default [
 	"Chrome >= 91",
 	"ChromeAndroid 91",
 	"Edge >= 91",
