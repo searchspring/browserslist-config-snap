@@ -1,4 +1,3 @@
 export default [
-	"defaults",
-	"ie >= 11"
+	"ie 11"
 ]
